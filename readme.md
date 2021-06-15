@@ -1,5 +1,3 @@
-# Oh, my!
-# Hello, world!
-#
-# Hi!
+# Good day, sir!
+# 
 # Buongiorno!
